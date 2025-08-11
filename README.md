@@ -13,7 +13,7 @@ The dataset contains the following columns:
 
 ## Objective
 - Build a regression model that accurately predicts the average rating of movies based on the given features.
-- Evaluate the model performance using metrics such as R² score, Mean Squared Error (MSE), and Mean Absolute Error (MAE).
+- Evaluate the model performance using metrics such as R² score.
 
 ## Approach
 - Perform basic exploratory data analysis (EDA) and visualization to understand feature relationships.
